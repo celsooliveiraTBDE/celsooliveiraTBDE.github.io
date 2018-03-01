@@ -1,0 +1,39 @@
+
+
+}
+
+nav{
+    text-align: right;
+    margin: 1px black;
+
+    display: block;
+}
+
+
+}
+
+
+ 
+
+}
+#main {
+    width: 960px;
+    border: 1px black;
+
+}
+article{
+    width: 650px;
+    border: 1px black;
+    background-color: #4aaaa5
+
+}
+
+aside{
+    width: 270px;
+    float: right; 
+
+}
+#bioimage{
+    height : 100px;
+    width : 150px;
+}
